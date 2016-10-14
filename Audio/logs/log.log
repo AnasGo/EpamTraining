@@ -1,0 +1,22 @@
+2016-10-14 06:26:06 [main] INFO  by.gorbunova.audio.reader.AudioReaderFromFile - File successful reading.
+2016-10-14 06:26:06 [main] INFO  by.gorbunova.audio.factory.DiscCreator - Audio was added successfully.
+2016-10-14 06:26:06 [main] INFO  by.gorbunova.audio.factory.DiscCreator - Audio was added successfully.
+2016-10-14 06:26:06 [main] INFO  by.gorbunova.audio.factory.DiscCreator - Audio was added successfully.
+2016-10-14 06:26:06 [main] INFO  by.gorbunova.audio.factory.DiscCreator - Audio was added successfully.
+2016-10-14 06:26:06 [main] INFO  by.gorbunova.audio.factory.DiscCreator - Audio was added successfully.
+2016-10-14 06:26:06 [main] INFO  by.gorbunova.audio.factory.DiscCreator - Audio was added successfully.
+2016-10-14 06:26:06 [main] INFO  by.gorbunova.audio.action.DiscAction - Disc is sorted successfully.
+2016-10-14 06:26:06 [main] INFO  by.gorbunova.audio.main.Main - Disc was sorted.
+2016-10-14 06:26:06 [main] INFO  by.gorbunova.audio.action.DiscAction - Required Audio is found.
+2016-10-14 06:26:06 [main] INFO  by.gorbunova.audio.main.Main - Required Audio was found: WavAudio id 4, length 194.0, author Moby, name Sunday, style electronic, modulationType impulse, compressed false
+2016-10-14 06:28:08 [main] INFO  by.gorbunova.audio.reader.AudioReaderFromFile - File successful reading.
+2016-10-14 06:28:08 [main] INFO  by.gorbunova.audio.factory.DiscCreator - Audio was added successfully.
+2016-10-14 06:28:08 [main] INFO  by.gorbunova.audio.factory.DiscCreator - Audio was added successfully.
+2016-10-14 06:28:08 [main] INFO  by.gorbunova.audio.factory.DiscCreator - Audio was added successfully.
+2016-10-14 06:28:08 [main] INFO  by.gorbunova.audio.factory.DiscCreator - Audio was added successfully.
+2016-10-14 06:28:08 [main] INFO  by.gorbunova.audio.factory.DiscCreator - Audio was added successfully.
+2016-10-14 06:28:08 [main] INFO  by.gorbunova.audio.factory.DiscCreator - Audio was added successfully.
+2016-10-14 06:28:08 [main] INFO  by.gorbunova.audio.action.DiscAction - Disc is sorted successfully.
+2016-10-14 06:28:08 [main] INFO  by.gorbunova.audio.main.Main - Disc was sorted.
+2016-10-14 06:28:08 [main] INFO  by.gorbunova.audio.action.DiscAction - Required Audio is found.
+2016-10-14 06:28:08 [main] INFO  by.gorbunova.audio.main.Main - Required Audio was found: WavAudio id 4, length 194.0, author Moby, name Sunday, style electronic, modulationType impulse, compressed false
